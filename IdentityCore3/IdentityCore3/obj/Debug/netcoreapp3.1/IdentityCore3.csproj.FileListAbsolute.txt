@@ -82,7 +82,6 @@ C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\o
 C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\obj\Debug\netcoreapp3.1\IdentityCore3.dll
 C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\obj\Debug\netcoreapp3.1\IdentityCore3.pdb
 C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\obj\Debug\netcoreapp3.1\IdentityCore3.genruntimeconfig.cache
-C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
 C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\manuel.naranjo\Source\Repos\IdentityCore3\IdentityCore3\IdentityCore3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
